@@ -1,0 +1,26 @@
+
+
+.first {
+    /*border: 2px solid blue;*/
+    background: blue;
+    margin: 10px;
+    height: 60px;
+    width: 900px;
+}
+
+.lange {
+    background: black;
+    
+}
+
+.contain {
+    width: 600px;
+    border: 1px solid #000;
+    /*overflow: hidden;*/
+}
+
+.demo-sizing {
+    font-size: 60px;
+    
+}
+
