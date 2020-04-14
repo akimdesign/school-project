@@ -1,0 +1,71 @@
+.drawing {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: lightblue;
+    height: 800px;
+    
+}
+.pot {
+    text-align: center;
+    /* border: 2px solid dodgerblue; */
+    background-color: #f1f1f1;
+    width: 200px;
+    height: 200px;
+}
+
+.greenery {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    
+}
+
+.leaf1 {
+    
+    margin-left: 25px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background: green;
+    width: 30px;
+    height: 60px;
+    
+    
+}
+
+.leaf2 {
+    
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background: darkgreen;
+    width: 30px;
+    height: 250px;
+    
+}
+
+.leaf3 {
+    margin-right: 10px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background: green;
+    width: 25px;
+    height: 65px;
+}
+
+.sideleaf {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.side1 {
+    margin-left: 50px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background: green;
+    width: 25px;
+    height: 65px;
+    transform: rotate(45deg);
+    
+}

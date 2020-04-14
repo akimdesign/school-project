@@ -1,0 +1,5 @@
+.maxWidthDemo {
+  max-width: 800px;
+  margin: auto;
+  text-indent: 0.5em;
+}
